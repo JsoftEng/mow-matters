@@ -8,8 +8,7 @@ export default function Home() {
         <Image
           src="/mowmatters-logo.png"
           alt="MowMatters Logo"
-          width={350}
-          height={302}
+          fill={true}
           priority
         />
         <h1>Coming Soon!</h1>
